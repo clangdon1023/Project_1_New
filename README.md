@@ -29,7 +29,11 @@ No issues as it runs well on Microsoft Excel. Do recommend erasing the updated d
 
 # Authors
 
+Clayton Langdon
 Christopher Manfredi 
+Allison Potestio
+Susan Ombwayo
+Anusha Sekhar
 
 ## Version History
 
