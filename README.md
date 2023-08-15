@@ -34,6 +34,7 @@ Christopher Manfredi
 Allison Potestio
 Susan Ombwayo
 Anusha Sekhar
+Aleksey Kozhokin
 
 ## Version History
 
