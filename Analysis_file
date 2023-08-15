@@ -1,0 +1,14 @@
+Olympics Data Analayis of Sport and Age after replacing Null age with the Mean Age of participants
+------------------------------------------------------------
+Dataset analysed has data for 35 Years
+The Most Popular sport in the Olympics has 38624 Participants
+The uncommon sport in the Olympics has 1 Participant
+Top Sports are ['Athletics', 'Gymnastics', 'Swimming', 'Shooting', 'Cycling']
+Most Uncommon Sports are ['Aeronautics', 'Basque Pelota', 'Roque', 'Jeu De Paume', 'Racquets']
+The Oldest Participant is of Age 97.0
+The Youngest Participant is of Age 10.0
+The Average Age of Participants is 25.525690452692192
+Number of Sports Played In Summer Olympics: 52
+Number of Sports Played In Winter Olympics: 17
+Total # of Olympic Sport is: 66
+------------------------------------------------------------
