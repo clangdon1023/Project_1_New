@@ -1,10 +1,16 @@
 # Rutgers Bootcamp Project One 
 
-In this assignment, xxxxxxxxxxxxxxxxxxxxxxxx
+In this assignment, our team performed analyses on data related to the atheltes of the Summer and Winter Olympics, from  1896-2016. Using this comprehensive .csv file, we created visualizations which helped us to understand these athletes and games a little better, and answer questions related to events, seasonality, and athletes' age. 
 
 # Description
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+Using python and panda libraries such as Matplotlib and Scipy, we created several visualizations that allowed us to answer questions about the Olympic games and the athletes who compete in them.
+
+Some conclusions made are:
+   Across all sports, the most popular (athletics, gymnastics, etc) have had several thousand participants, while the least popular have had as few as one.
+   The "optimal" ages to compete in the Olympics, with the goal of receiving a medal, is ages 23-28, as this group has by far the most medals of any age group.
+   The distribution of age among medalers varies more among women than it does men
+   
 
 # Project Summary
 
