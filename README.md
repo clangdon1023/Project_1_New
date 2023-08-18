@@ -5,7 +5,11 @@ In this assignment, our team performed analyses on data related to the atheltes 
 # Description
 
 We found our data on kaggle.com after determining we would like to perform analysis on some sort of sports data, which we narrowed down to data on the Olympic games specifically. The dataset we used can be found at:
+
+
    https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
+
+   
    We also checked some data points against data from Olympics.com to ensure accuracy
 
    
